@@ -1,0 +1,2 @@
+Tienes un sistema que gestiona una biblioteca. Actualmente, una sola clase Library maneja toda la lógica relacionada con los libros, incluyendo la gestión de datos de los libros, el préstamo y la devolución de libros, así como la generación de reportes. Refactoriza el código para seguir el SRP.
+Para hacerlo más interesante, podríamos añadir más funcionalidades, como la gestión de usuarios de la biblioteca, el historial de préstamos y devoluciones, y la notificación de usuarios
